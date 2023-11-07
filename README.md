@@ -1,5 +1,5 @@
 # Unambiguous Transliteration Models (UTM@UTM)
-The Unambiguous Transliteration Models (UTM) is a set of NLP models created by Jacky Fong, Ian Quan and Douglas Quan at the University of Toronto at Mississauga designed to address homophonic/homonymic ambiguities that commonly appear in traditional machine romanization and transliteration.
+The Unambiguous Transliteration Models (UTM) is a set of NLP models created by Jacky Fong, Ian Quan and Douglas Quan at the University of Toronto at Mississauga to address homophonic/homonymic ambiguities that commonly appear in traditional machine romanization and transliteration.
 ## External Library Tools:
 - [cantoseg] (https://github.com/ayaka14732/cantoseg) for segmentation 
 - [ckip-transformers-hk] (https://github.com/toastynews/ckip-transformers-hk) is a set of transformer models for Chinese NLP
